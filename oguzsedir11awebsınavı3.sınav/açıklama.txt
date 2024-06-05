@@ -1,0 +1,10 @@
+fatih mesleki teknik anadolu lisesi
+2023-2024 eğitim öğretim yılı 
+web tabanlı uygulamalar dersi 2.dönem 3. uygulama sınavı sorudur
+ 
+-parallaz effect ile sayfada yerleşen resimler SCROLL bar hareketi ilşe hayma işlemi yapacaktır.
+-site tek sayfadan oluşur. index.html
+
+- site github hesabına atılacaktır.
+
+
